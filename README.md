@@ -74,8 +74,8 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/aether-store.git
-cd aether-store
+git clone https://github.com/alexandeer1/E-Commerce-Platform
+cd E-Commerce-Platform
 ```
 
 ### 2. Install Dependencies
